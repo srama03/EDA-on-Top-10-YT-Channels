@@ -5,3 +5,24 @@ Established in 2005, YouTube has evolved into the second-largest search engine g
 In this landscape, experimenting and identifying trends within specific niches become crucial strategies. Observing the topics gaining traction among YouTube channels can offer valuable insights for those looking to carve a niche and enhance their video visibility.
 
 The scope of this small project is limited to educational channels and I will not consider other niches (that might have a different characteristics and audience base). Therefore, in this project will explore the statistics of around 10 most successful educational Youtube channels.
+
+### Objective
+The primary goal of this project is to explore and analyze the performance metrics of top educational YouTube channels. Specifically, we aim to:
+
+* Understand engagement trends (views, likes, comments, etc.).
+* Debunk common myths about video success.
+* Identify trending topics within the educational niche.
+
+### Key Features
+* Extracted video metadata using the YouTube API for top educational channels.
+* Conducted exploratory data analysis to uncover meaningful patterns and insights.
+* Applied Natural Language Processing (NLP) to analyze video titles and descriptions, revealing trending topics.
+* Visualized data using Matplotlib and Seaborn to present findings.
+
+### Tech Stack
+* Python
+* YouTube API
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Natural Language Toolkit (NLTK)
+
